@@ -35,7 +35,7 @@ section {
     border: 1px solid black;
 }
 
-.menuItem {
+.menuitem {
 	float: right;
 	width: 30%;
     height: 30px; 
@@ -48,7 +48,7 @@ section {
 
 }
 
-/* Simple Responsive Framework. */
+
 .row {
   width: 100%;
 }
@@ -199,4 +199,5 @@ section {
   .col-sm-12 {
     width: 98%;
   }
+}
 }
